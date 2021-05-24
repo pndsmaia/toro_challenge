@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009214385601",
+    "project_id": "toro-challenge",
+    "storage_bucket": "toro-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009214385601:android:ad4a6fee25f98d3772d340",
+        "android_client_info": {
+          "package_name": "com.philm.desafio_toro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009214385601-cdjfc781ab3nn8uquqenmpl92fvg21kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOBV4wbwN6BoyVJlN9TbkiM5d_qVsZxME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009214385601-cdjfc781ab3nn8uquqenmpl92fvg21kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
